@@ -1,2 +1,2 @@
-python3  index.py
-url  http://ip:8000
+python3  index.py  
+url:  http://ip:8000
